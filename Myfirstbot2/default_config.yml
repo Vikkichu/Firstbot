@@ -1,0 +1,3 @@
+﻿bot:
+    # Bot token.
+    token: "<add-token-here>"
